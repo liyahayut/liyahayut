@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @liyahayut
-- 👀 I’m interested in books!
-- 🌱 I’m currently learning web & AI
+- 🌱 I’m currently learning cyber security
 
 <!---
 liyahayut/liyahayut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
